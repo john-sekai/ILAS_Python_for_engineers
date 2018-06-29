@@ -1,0 +1,4878 @@
+	item_name	item_priceipo
+281	Steak Salad Bowl	11.890
+1229	Barbacoa Salad Bowl	11.890
+1132	Carnitas Salad Bowl	11.890
+7	Steak Burrito	11.750
+39	Barbacoa Bowl	11.750
+168	Barbacoa Crispy Tacos	11.750
+186	Veggie Salad Bowl	11.250
+738	Veggie Soft Tacos	11.250
+57	Veggie Burrito	11.250
+62	Veggie Bowl	11.250
+250	Chicken Salad	10.980
+56	Barbacoa Soft Tacos	9.250
+92	Steak Crispy Tacos	9.250
+237	Carnitas Soft Tacos	9.250
+554	Carnitas Crispy Tacos	9.250
+8	Steak Soft Tacos	9.250
+664	Steak Salad	8.990
+54	Steak Bowl	8.990
+3750	Carnitas Salad	8.990
+21	Barbacoa Burrito	8.990
+33	Carnitas Bowl	8.990
+27	Carnitas Burrito	8.990
+11	Chicken Crispy Tacos	8.750
+44	Chicken Salad Bowl	8.750
+12	Chicken Soft Tacos	8.750
+16	Chicken Burrito	8.490
+1653	Veggie Crispy Tacos	8.490
+4	Chicken Bowl	8.490
+1694	Veggie Salad	8.490
+1414	Salad	7.400
+510	Burrito	7.400
+520	Crispy Tacos	7.400
+445	Bowl	7.400
+298	6 Pack Soft Drink	6.490
+10	Chips and Guacamole	4.450
+1	Izze	3.390
+2	Nantucket Nectar	3.390
+674	Chips and Mild Fresh Tomato Salsa	3.000
+111	Chips and Tomatillo Red Chili Salsa	2.950
+38	Chips and Tomatillo Green Chili Salsa	2.950
+233	Chips and Roasted Chili Corn Salsa	2.950
+3	Chips and Tomatillo-Green Chili Salsa	2.390
+0	Chips and Fresh Tomato Salsa	2.390
+300	Chips and Tomatillo-Red Chili Salsa	2.390
+191	Chips and Roasted Chili-Corn Salsa	2.390
+40	Chips	2.150
+6	Side of Chips	1.690
+263	Canned Soft Drink	1.250
+18	Canned Soda	1.090
+34	Bottled Water	1.090
+,item_name,item_priceipo
+281,Steak Salad Bowl,11.89
+1229,Barbacoa Salad Bowl,11.89
+1132,Carnitas Salad Bowl,11.89
+7,Steak Burrito,11.75
+39,Barbacoa Bowl,11.75
+168,Barbacoa Crispy Tacos,11.75
+186,Veggie Salad Bowl,11.25
+738,Veggie Soft Tacos,11.25
+57,Veggie Burrito,11.25
+62,Veggie Bowl,11.25
+250,Chicken Salad,10.98
+56,Barbacoa Soft Tacos,9.25
+92,Steak Crispy Tacos,9.25
+237,Carnitas Soft Tacos,9.25
+554,Carnitas Crispy Tacos,9.25
+8,Steak Soft Tacos,9.25
+664,Steak Salad,8.99
+54,Steak Bowl,8.99
+3750,Carnitas Salad,8.99
+21,Barbacoa Burrito,8.99
+33,Carnitas Bowl,8.99
+27,Carnitas Burrito,8.99
+11,Chicken Crispy Tacos,8.75
+44,Chicken Salad Bowl,8.75
+12,Chicken Soft Tacos,8.75
+16,Chicken Burrito,8.49
+1653,Veggie Crispy Tacos,8.49
+4,Chicken Bowl,8.49
+1694,Veggie Salad,8.49
+1414,Salad,7.40
+510,Burrito,7.40
+520,Crispy Tacos,7.40
+445,Bowl,7.40
+298,6 Pack Soft Drink,6.49
+10,Chips and Guacamole,4.45
+1,Izze,3.39
+2,Nantucket Nectar,3.39
+674,Chips and Mild Fresh Tomato Salsa,3.00
+111,Chips and Tomatillo Red Chili Salsa,2.95
+38,Chips and Tomatillo Green Chili Salsa,2.95
+233,Chips and Roasted Chili Corn Salsa,2.95
+3,Chips and Tomatillo-Green Chili Salsa,2.39
+0,Chips and Fresh Tomato Salsa,2.39
+300,Chips and Tomatillo-Red Chili Salsa,2.39
+191,Chips and Roasted Chili-Corn Salsa,2.39
+40,Chips,2.15
+6,Side of Chips,1.69
+263,Canned Soft Drink,1.25
+18,Canned Soda,1.09
+34,Bottled Water,1.09
+item_name	item_priceipo
+Steak Salad Bowl	11.89
+Barbacoa Salad Bowl	11.89
+Carnitas Salad Bowl	11.89
+Steak Burrito	11.75
+Barbacoa Bowl	11.75
+Barbacoa Crispy Tacos	11.75
+Veggie Salad Bowl	11.25
+Veggie Soft Tacos	11.25
+Veggie Burrito	11.25
+Veggie Bowl	11.25
+Chicken Salad	10.98
+Barbacoa Soft Tacos	9.25
+Steak Crispy Tacos	9.25
+Carnitas Soft Tacos	9.25
+Carnitas Crispy Tacos	9.25
+Steak Soft Tacos	9.25
+Steak Salad	8.99
+Steak Bowl	8.99
+Carnitas Salad	8.99
+Barbacoa Burrito	8.99
+Carnitas Bowl	8.99
+Carnitas Burrito	8.99
+Chicken Crispy Tacos	8.75
+Chicken Salad Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.49
+Veggie Crispy Tacos	8.49
+Chicken Bowl	8.49
+Veggie Salad	8.49
+Salad	7.40
+Burrito	7.40
+Crispy Tacos	7.40
+Bowl	7.40
+6 Pack Soft Drink	6.49
+Chips and Guacamole	4.45
+Izze	3.39
+Nantucket Nectar	3.39
+Chips and Mild Fresh Tomato Salsa	3.00
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips	2.15
+Side of Chips	1.69
+Canned Soft Drink	1.25
+Canned Soda	1.09
+Bottled Water	1.09
+item_name	item_priceipo
+Barbacoa Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Carnitas Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Barbacoa Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Carnitas Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Barbacoa Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Barbacoa Salad Bowl	11.89
+Carnitas Salad Bowl	11.89
+Carnitas Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Steak Salad Bowl	11.89
+Barbacoa Salad Bowl	11.89
+Barbacoa Soft Tacos	11.75
+Steak Crispy Tacos	11.75
+Steak Bowl	11.75
+Barbacoa Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Carnitas Bowl	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Barbacoa Bowl	11.75
+Steak Bowl	11.75
+Barbacoa Burrito	11.75
+Steak Burrito	11.75
+Carnitas Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Barbacoa Burrito	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Barbacoa Soft Tacos	11.75
+Barbacoa Soft Tacos	11.75
+Barbacoa Burrito	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Carnitas Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Barbacoa Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Carnitas Burrito	11.75
+Carnitas Bowl	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Carnitas Soft Tacos	11.75
+Steak Bowl	11.75
+Barbacoa Burrito	11.75
+Steak Burrito	11.75
+Barbacoa Bowl	11.75
+Carnitas Burrito	11.75
+Barbacoa Burrito	11.75
+Carnitas Bowl	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Soft Tacos	11.75
+Steak Bowl	11.75
+Barbacoa Burrito	11.75
+Barbacoa Bowl	11.75
+Carnitas Bowl	11.75
+Barbacoa Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Carnitas Bowl	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Barbacoa Burrito	11.75
+Steak Burrito	11.75
+Carnitas Burrito	11.75
+Barbacoa Burrito	11.75
+Steak Bowl	11.75
+Barbacoa Burrito	11.75
+Steak Crispy Tacos	11.75
+Steak Bowl	11.75
+Carnitas Burrito	11.75
+Carnitas Bowl	11.75
+Barbacoa Burrito	11.75
+Steak Bowl	11.75
+Barbacoa Bowl	11.75
+Carnitas Burrito	11.75
+Carnitas Soft Tacos	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Barbacoa Soft Tacos	11.75
+Barbacoa Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Barbacoa Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Barbacoa Burrito	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Crispy Tacos	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Crispy Tacos	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Carnitas Burrito	11.75
+Barbacoa Bowl	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Soft Tacos	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Crispy Tacos	11.75
+Barbacoa Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Carnitas Burrito	11.75
+Barbacoa Crispy Tacos	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Carnitas Burrito	11.75
+Barbacoa Soft Tacos	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Carnitas Burrito	11.75
+Barbacoa Bowl	11.75
+Steak Burrito	11.75
+Carnitas Bowl	11.75
+Carnitas Soft Tacos	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Carnitas Bowl	11.75
+Steak Burrito	11.75
+Carnitas Bowl	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Barbacoa Soft Tacos	11.75
+Steak Burrito	11.75
+Carnitas Crispy Tacos	11.75
+Barbacoa Bowl	11.75
+Steak Bowl	11.75
+Steak Crispy Tacos	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Barbacoa Burrito	11.75
+Barbacoa Bowl	11.75
+Barbacoa Burrito	11.75
+Steak Burrito	11.75
+Carnitas Burrito	11.75
+Barbacoa Burrito	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Barbacoa Soft Tacos	11.75
+Steak Burrito	11.75
+Steak Soft Tacos	11.75
+Barbacoa Burrito	11.75
+Barbacoa Bowl	11.75
+Barbacoa Bowl	11.75
+Carnitas Bowl	11.75
+Steak Bowl	11.75
+Carnitas Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Barbacoa Bowl	11.75
+Steak Burrito	11.75
+Carnitas Burrito	11.75
+Steak Soft Tacos	11.75
+Steak Bowl	11.75
+Barbacoa Bowl	11.75
+Barbacoa Bowl	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Barbacoa Bowl	11.75
+Steak Bowl	11.75
+Carnitas Bowl	11.75
+Barbacoa Burrito	11.75
+Barbacoa Crispy Tacos	11.75
+Steak Bowl	11.75
+Barbacoa Crispy Tacos	11.75
+Steak Bowl	11.75
+Carnitas Bowl	11.75
+Barbacoa Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Barbacoa Burrito	11.75
+Barbacoa Bowl	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Crispy Tacos	11.75
+Steak Bowl	11.75
+Carnitas Bowl	11.75
+Steak Burrito	11.75
+Carnitas Burrito	11.75
+Carnitas Burrito	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Crispy Tacos	11.75
+Steak Crispy Tacos	11.75
+Carnitas Bowl	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Barbacoa Bowl	11.75
+Carnitas Bowl	11.75
+Barbacoa Burrito	11.75
+Carnitas Burrito	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Carnitas Crispy Tacos	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Barbacoa Bowl	11.75
+Carnitas Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Carnitas Bowl	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Carnitas Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Bowl	11.75
+Carnitas Bowl	11.75
+Steak Soft Tacos	11.75
+Steak Crispy Tacos	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Carnitas Burrito	11.75
+Steak Burrito	11.75
+Carnitas Burrito	11.75
+Steak Bowl	11.75
+Steak Crispy Tacos	11.75
+Steak Bowl	11.75
+Steak Burrito	11.75
+Steak Burrito	11.75
+Steak Soft Tacos	11.75
+Barbacoa Bowl	11.49
+Carnitas Bowl	11.48
+Steak Burrito	11.48
+Carnitas Burrito	11.48
+Barbacoa Bowl	11.48
+Barbacoa Bowl	11.48
+Steak Burrito	11.48
+Steak Bowl	11.48
+Steak Burrito	11.48
+Barbacoa Soft Tacos	11.48
+Steak Burrito	11.48
+Steak Bowl	11.48
+Carnitas Burrito	11.48
+Carnitas Bowl	11.48
+Steak Burrito	11.48
+Carnitas Bowl	11.48
+Steak Bowl	11.48
+Steak Burrito	11.48
+Steak Burrito	11.48
+Steak Burrito	11.48
+Steak Burrito	11.48
+Carnitas Bowl	11.48
+Barbacoa Bowl	11.48
+Steak Burrito	11.48
+Steak Burrito	11.48
+Steak Bowl	11.48
+Steak Bowl	11.48
+Barbacoa Burrito	11.48
+Carnitas Bowl	11.48
+Steak Burrito	11.48
+Steak Soft Tacos	11.48
+Steak Burrito	11.48
+Barbacoa Bowl	11.48
+Barbacoa Bowl	11.48
+Steak Soft Tacos	11.48
+Barbacoa Crispy Tacos	11.48
+Steak Bowl	11.48
+Steak Bowl	11.48
+Steak Burrito	11.48
+Steak Burrito	11.48
+Carnitas Bowl	11.48
+Steak Soft Tacos	11.48
+Steak Bowl	11.48
+Steak Burrito	11.48
+Steak Burrito	11.48
+Steak Bowl	11.48
+Steak Burrito	11.48
+Steak Burrito	11.48
+Steak Burrito	11.48
+Carnitas Bowl	11.48
+Steak Bowl	11.48
+Steak Burrito	11.48
+Barbacoa Bowl	11.48
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Veggie Burrito	11.25
+Veggie Bowl	11.25
+Chicken Burrito	11.25
+Veggie Burrito	11.25
+Chicken Bowl	11.25
+Chicken Crispy Tacos	11.25
+Veggie Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Crispy Tacos	11.25
+Chicken Bowl	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Veggie Bowl	11.25
+Veggie Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Veggie Soft Tacos	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Soft Tacos	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Crispy Tacos	11.25
+Chicken Soft Tacos	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Burrito	11.25
+Veggie Soft Tacos	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Crispy Tacos	11.25
+Chicken Soft Tacos	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Soft Tacos	11.25
+Chicken Bowl	11.25
+Chicken Soft Tacos	11.25
+Chicken Burrito	11.25
+Veggie Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Veggie Bowl	11.25
+Chicken Burrito	11.25
+Veggie Burrito	11.25
+Veggie Burrito	11.25
+Veggie Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Veggie Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Soft Tacos	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Crispy Tacos	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Veggie Burrito	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Burrito	11.25
+Veggie Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Veggie Burrito	11.25
+Veggie Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Veggie Burrito	11.25
+Veggie Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Veggie Bowl	11.25
+Chicken Burrito	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Soft Tacos	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Veggie Burrito	11.25
+Veggie Salad Bowl	11.25
+Veggie Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Crispy Tacos	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Veggie Burrito	11.25
+Chicken Soft Tacos	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Veggie Burrito	11.25
+Chicken Soft Tacos	11.25
+Veggie Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Veggie Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Soft Tacos	11.25
+Chicken Bowl	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Crispy Tacos	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Veggie Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Veggie Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Crispy Tacos	11.25
+Chicken Bowl	11.25
+Chicken Soft Tacos	11.25
+Chicken Soft Tacos	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Crispy Tacos	11.25
+Chicken Burrito	11.25
+Veggie Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Soft Tacos	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Veggie Bowl	11.25
+Veggie Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Crispy Tacos	11.25
+Chicken Bowl	11.25
+Veggie Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Veggie Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Veggie Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Veggie Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Veggie Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Veggie Bowl	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Veggie Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Crispy Tacos	11.25
+Chicken Salad Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Soft Tacos	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Veggie Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Crispy Tacos	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Veggie Salad Bowl	11.25
+Chicken Bowl	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Veggie Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Veggie Burrito	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Chicken Soft Tacos	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Veggie Burrito	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Veggie Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Burrito	11.25
+Veggie Salad Bowl	11.25
+Chicken Soft Tacos	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Soft Tacos	11.25
+Chicken Bowl	11.25
+Chicken Soft Tacos	11.25
+Chicken Bowl	11.25
+Veggie Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Veggie Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Soft Tacos	11.25
+Chicken Soft Tacos	11.25
+Chicken Bowl	11.25
+Veggie Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Crispy Tacos	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Veggie Bowl	11.25
+Chicken Burrito	11.25
+Veggie Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Veggie Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Veggie Burrito	11.25
+Chicken Crispy Tacos	11.25
+Chicken Bowl	11.25
+Veggie Salad Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Chicken Burrito	11.25
+Veggie Burrito	11.25
+Chicken Bowl	11.25
+Veggie Burrito	11.25
+Chicken Burrito	11.25
+Veggie Burrito	11.25
+Chicken Bowl	11.25
+Veggie Salad Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Veggie Bowl	11.25
+Chicken Burrito	11.25
+Veggie Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Soft Tacos	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Veggie Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Soft Tacos	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Veggie Burrito	11.25
+Veggie Burrito	11.25
+Chicken Bowl	11.25
+Veggie Bowl	11.25
+Veggie Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Chicken Burrito	11.25
+Chicken Salad Bowl	11.25
+Chicken Bowl	11.25
+Chicken Bowl	11.25
+Carnitas Bowl	11.08
+Steak Burrito	11.08
+Steak Bowl	11.08
+Steak Burrito	11.08
+Carnitas Burrito	11.08
+Steak Bowl	11.08
+Carnitas Bowl	11.08
+Steak Burrito	11.08
+Steak Burrito	11.08
+Steak Burrito	11.08
+Carnitas Bowl	11.08
+Barbacoa Burrito	11.08
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Soft Tacos	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Veggie Bowl	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Salad	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Veggie Burrito	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Crispy Tacos	10.98
+Veggie Burrito	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Veggie Bowl	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Veggie Bowl	10.98
+Veggie Burrito	10.98
+Chicken Bowl	10.98
+Chicken Soft Tacos	10.98
+Chicken Soft Tacos	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Salad	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Veggie Burrito	10.98
+Chicken Soft Tacos	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.98
+Chicken Bowl	10.98
+Veggie Bowl	10.98
+Chicken Bowl	10.98
+Chicken Burrito	10.58
+Chicken Burrito	10.58
+Chicken Burrito	10.58
+Chicken Burrito	10.58
+Chicken Bowl	10.58
+Carnitas Salad Bowl	9.39
+Steak Salad Bowl	9.39
+Steak Salad Bowl	9.39
+Barbacoa Salad Bowl	9.39
+Barbacoa Salad Bowl	9.39
+Steak Salad Bowl	9.39
+Steak Salad Bowl	9.39
+Steak Salad Bowl	9.39
+Steak Salad Bowl	9.39
+Barbacoa Salad Bowl	9.39
+Barbacoa Salad Bowl	9.39
+Steak Salad Bowl	9.39
+Steak Salad Bowl	9.39
+Steak Salad Bowl	9.39
+Carnitas Salad Bowl	9.39
+Steak Salad Bowl	9.39
+Barbacoa Salad Bowl	9.39
+Barbacoa Burrito	9.25
+Carnitas Burrito	9.25
+Steak Bowl	9.25
+Steak Soft Tacos	9.25
+Steak Bowl	9.25
+Steak Soft Tacos	9.25
+Steak Bowl	9.25
+Barbacoa Burrito	9.25
+Barbacoa Bowl	9.25
+Carnitas Bowl	9.25
+Carnitas Soft Tacos	9.25
+Steak Burrito	9.25
+Carnitas Burrito	9.25
+Barbacoa Bowl	9.25
+Barbacoa Burrito	9.25
+Steak Bowl	9.25
+Barbacoa Burrito	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Carnitas Soft Tacos	9.25
+Barbacoa Bowl	9.25
+Steak Burrito	9.25
+Carnitas Bowl	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Carnitas Bowl	9.25
+Carnitas Burrito	9.25
+Steak Burrito	9.25
+Carnitas Soft Tacos	9.25
+Steak Bowl	9.25
+Steak Soft Tacos	9.25
+Carnitas Soft Tacos	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Carnitas Burrito	9.25
+Carnitas Burrito	9.25
+Steak Crispy Tacos	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Barbacoa Soft Tacos	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Barbacoa Soft Tacos	9.25
+Steak Soft Tacos	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Steak Crispy Tacos	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Carnitas Soft Tacos	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Barbacoa Burrito	9.25
+Carnitas Soft Tacos	9.25
+Steak Burrito	9.25
+Carnitas Burrito	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Steak Soft Tacos	9.25
+Barbacoa Soft Tacos	9.25
+Carnitas Crispy Tacos	9.25
+Steak Burrito	9.25
+Barbacoa Burrito	9.25
+Barbacoa Bowl	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Crispy Tacos	9.25
+Carnitas Burrito	9.25
+Steak Burrito	9.25
+Barbacoa Burrito	9.25
+Barbacoa Bowl	9.25
+Barbacoa Soft Tacos	9.25
+Steak Crispy Tacos	9.25
+Steak Soft Tacos	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Carnitas Burrito	9.25
+Steak Burrito	9.25
+Carnitas Burrito	9.25
+Steak Crispy Tacos	9.25
+Steak Burrito	9.25
+Steak Soft Tacos	9.25
+Carnitas Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Barbacoa Bowl	9.25
+Barbacoa Soft Tacos	9.25
+Carnitas Soft Tacos	9.25
+Steak Burrito	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Carnitas Soft Tacos	9.25
+Carnitas Burrito	9.25
+Steak Bowl	9.25
+Barbacoa Bowl	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Carnitas Burrito	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Steak Soft Tacos	9.25
+Carnitas Bowl	9.25
+Carnitas Bowl	9.25
+Steak Burrito	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Carnitas Bowl	9.25
+Steak Bowl	9.25
+Carnitas Soft Tacos	9.25
+Barbacoa Bowl	9.25
+Steak Burrito	9.25
+Carnitas Soft Tacos	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Steak Soft Tacos	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Steak Soft Tacos	9.25
+Steak Soft Tacos	9.25
+Steak Soft Tacos	9.25
+Barbacoa Bowl	9.25
+Barbacoa Bowl	9.25
+Barbacoa Bowl	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Barbacoa Burrito	9.25
+Steak Bowl	9.25
+Steak Bowl	9.25
+Carnitas Soft Tacos	9.25
+Carnitas Bowl	9.25
+Barbacoa Soft Tacos	9.25
+Steak Soft Tacos	9.25
+Steak Bowl	9.25
+Carnitas Burrito	9.25
+Steak Bowl	9.25
+Carnitas Bowl	9.25
+Barbacoa Soft Tacos	9.25
+Carnitas Soft Tacos	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Carnitas Soft Tacos	9.25
+Steak Soft Tacos	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Carnitas Bowl	9.25
+Barbacoa Crispy Tacos	9.25
+Barbacoa Bowl	9.25
+Barbacoa Bowl	9.25
+Steak Bowl	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Carnitas Soft Tacos	9.25
+Steak Burrito	9.25
+Barbacoa Bowl	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Carnitas Soft Tacos	9.25
+Steak Bowl	9.25
+Carnitas Burrito	9.25
+Carnitas Bowl	9.25
+Barbacoa Crispy Tacos	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Steak Bowl	9.25
+Steak Soft Tacos	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Carnitas Soft Tacos	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Steak Soft Tacos	9.25
+Carnitas Burrito	9.25
+Steak Burrito	9.25
+Carnitas Bowl	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Carnitas Soft Tacos	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Crispy Tacos	9.25
+Barbacoa Burrito	9.25
+Barbacoa Soft Tacos	9.25
+Steak Soft Tacos	9.25
+Steak Bowl	9.25
+Steak Bowl	9.25
+Steak Bowl	9.25
+Steak Soft Tacos	9.25
+Barbacoa Burrito	9.25
+Carnitas Burrito	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Steak Crispy Tacos	9.25
+Steak Soft Tacos	9.25
+Barbacoa Bowl	9.25
+Carnitas Soft Tacos	9.25
+Steak Crispy Tacos	9.25
+Steak Soft Tacos	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Barbacoa Burrito	9.25
+Barbacoa Bowl	9.25
+Steak Crispy Tacos	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Barbacoa Burrito	9.25
+Carnitas Crispy Tacos	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Carnitas Burrito	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Steak Bowl	9.25
+Steak Crispy Tacos	9.25
+Carnitas Bowl	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Carnitas Soft Tacos	9.25
+Carnitas Bowl	9.25
+Barbacoa Burrito	9.25
+Barbacoa Bowl	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Steak Bowl	9.25
+Barbacoa Bowl	9.25
+Steak Soft Tacos	9.25
+Steak Bowl	9.25
+Carnitas Burrito	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Carnitas Bowl	9.25
+Carnitas Burrito	9.25
+Barbacoa Burrito	9.25
+Steak Soft Tacos	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Carnitas Burrito	9.25
+Steak Burrito	9.25
+Carnitas Bowl	9.25
+Steak Soft Tacos	9.25
+Carnitas Bowl	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Barbacoa Bowl	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Carnitas Burrito	9.25
+Barbacoa Crispy Tacos	9.25
+Carnitas Burrito	9.25
+Carnitas Soft Tacos	9.25
+Carnitas Burrito	9.25
+Steak Soft Tacos	9.25
+Barbacoa Burrito	9.25
+Steak Bowl	9.25
+Steak Bowl	9.25
+Carnitas Bowl	9.25
+Steak Bowl	9.25
+Steak Bowl	9.25
+Steak Soft Tacos	9.25
+Steak Bowl	9.25
+Steak Bowl	9.25
+Carnitas Soft Tacos	9.25
+Barbacoa Bowl	9.25
+Steak Soft Tacos	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Carnitas Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Barbacoa Burrito	9.25
+Barbacoa Burrito	9.25
+Steak Bowl	9.25
+Carnitas Soft Tacos	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Barbacoa Soft Tacos	9.25
+Barbacoa Burrito	9.25
+Steak Bowl	9.25
+Barbacoa Burrito	9.25
+Carnitas Bowl	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Barbacoa Burrito	9.25
+Steak Bowl	9.25
+Barbacoa Soft Tacos	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Barbacoa Bowl	9.25
+Steak Burrito	9.25
+Barbacoa Soft Tacos	9.25
+Barbacoa Burrito	9.25
+Carnitas Soft Tacos	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Carnitas Soft Tacos	9.25
+Barbacoa Crispy Tacos	9.25
+Steak Burrito	9.25
+Carnitas Bowl	9.25
+Steak Burrito	9.25
+Barbacoa Burrito	9.25
+Barbacoa Bowl	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Steak Crispy Tacos	9.25
+Steak Crispy Tacos	9.25
+Steak Crispy Tacos	9.25
+Carnitas Bowl	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Barbacoa Bowl	9.25
+Carnitas Soft Tacos	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Steak Bowl	9.25
+Barbacoa Burrito	9.25
+Steak Bowl	9.25
+Barbacoa Soft Tacos	9.25
+Steak Burrito	9.25
+Steak Burrito	9.25
+Carnitas Soft Tacos	9.25
+Barbacoa Burrito	9.25
+Steak Bowl	9.25
+Carnitas Soft Tacos	9.25
+Barbacoa Bowl	9.25
+Carnitas Burrito	9.25
+Steak Soft Tacos	9.25
+Barbacoa Burrito	9.25
+Barbacoa Soft Tacos	9.25
+Steak Bowl	9.25
+Carnitas Burrito	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Steak Crispy Tacos	9.25
+Steak Burrito	9.25
+Carnitas Bowl	9.25
+Carnitas Burrito	9.25
+Carnitas Burrito	9.25
+Steak Bowl	9.25
+Carnitas Soft Tacos	9.25
+Steak Bowl	9.25
+Carnitas Soft Tacos	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Barbacoa Bowl	9.25
+Steak Bowl	9.25
+Steak Burrito	9.25
+Barbacoa Bowl	9.25
+Carnitas Soft Tacos	9.25
+Barbacoa Soft Tacos	9.25
+Barbacoa Crispy Tacos	9.25
+Carnitas Bowl	9.25
+Barbacoa Soft Tacos	9.25
+Steak Soft Tacos	9.25
+Carnitas Burrito	9.25
+Steak Soft Tacos	9.25
+Barbacoa Burrito	9.25
+Barbacoa Bowl	9.25
+Barbacoa Burrito	9.25
+Steak Burrito	9.25
+Steak Soft Tacos	9.25
+Steak Soft Tacos	9.25
+Steak Bowl	9.25
+Barbacoa Burrito	9.25
+Barbacoa Bowl	9.25
+Steak Burrito	9.25
+Steak Bowl	9.25
+Carnitas Soft Tacos	9.25
+Steak Soft Tacos	9.25
+Barbacoa Bowl	8.99
+Barbacoa Burrito	8.99
+Steak Burrito	8.99
+Steak Soft Tacos	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Crispy Tacos	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Carnitas Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Carnitas Crispy Tacos	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Carnitas Bowl	8.99
+Carnitas Soft Tacos	8.99
+Barbacoa Burrito	8.99
+Steak Bowl	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Crispy Tacos	8.99
+Steak Burrito	8.99
+Carnitas Bowl	8.99
+Steak Burrito	8.99
+Carnitas Soft Tacos	8.99
+Steak Bowl	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Carnitas Burrito	8.99
+Steak Bowl	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Carnitas Burrito	8.99
+Steak Soft Tacos	8.99
+Steak Bowl	8.99
+Steak Crispy Tacos	8.99
+Carnitas Bowl	8.99
+Steak Burrito	8.99
+Barbacoa Bowl	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Barbacoa Bowl	8.99
+Barbacoa Bowl	8.99
+Barbacoa Bowl	8.99
+Barbacoa Soft Tacos	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Barbacoa Bowl	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Carnitas Burrito	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Carnitas Bowl	8.99
+Steak Soft Tacos	8.99
+Barbacoa Burrito	8.99
+Barbacoa Burrito	8.99
+Carnitas Bowl	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Steak Bowl	8.99
+Carnitas Burrito	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Carnitas Soft Tacos	8.99
+Steak Burrito	8.99
+Steak Soft Tacos	8.99
+Steak Burrito	8.99
+Carnitas Bowl	8.99
+Steak Soft Tacos	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Barbacoa Burrito	8.99
+Barbacoa Burrito	8.99
+Barbacoa Burrito	8.99
+Steak Soft Tacos	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Barbacoa Bowl	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Carnitas Bowl	8.99
+Steak Burrito	8.99
+Barbacoa Burrito	8.99
+Barbacoa Burrito	8.99
+Carnitas Burrito	8.99
+Carnitas Bowl	8.99
+Steak Bowl	8.99
+Steak Salad	8.99
+Barbacoa Bowl	8.99
+Steak Crispy Tacos	8.99
+Steak Burrito	8.99
+Barbacoa Burrito	8.99
+Steak Bowl	8.99
+Steak Bowl	8.99
+Steak Soft Tacos	8.99
+Steak Burrito	8.99
+Carnitas Bowl	8.99
+Steak Bowl	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Soft Tacos	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Salad	8.99
+Steak Bowl	8.99
+Carnitas Soft Tacos	8.99
+Steak Burrito	8.99
+Barbacoa Soft Tacos	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Carnitas Salad	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Carnitas Crispy Tacos	8.99
+Carnitas Soft Tacos	8.99
+Carnitas Bowl	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Soft Tacos	8.99
+Steak Bowl	8.99
+Barbacoa Crispy Tacos	8.99
+Carnitas Bowl	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Barbacoa Burrito	8.99
+Steak Bowl	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Barbacoa Burrito	8.99
+Steak Soft Tacos	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Barbacoa Burrito	8.99
+Carnitas Soft Tacos	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Barbacoa Burrito	8.99
+Barbacoa Burrito	8.99
+Steak Soft Tacos	8.99
+Steak Bowl	8.99
+Steak Soft Tacos	8.99
+Barbacoa Burrito	8.99
+Barbacoa Crispy Tacos	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Carnitas Burrito	8.99
+Steak Crispy Tacos	8.99
+Steak Burrito	8.99
+Carnitas Bowl	8.99
+Barbacoa Burrito	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Steak Crispy Tacos	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Carnitas Bowl	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Crispy Tacos	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Carnitas Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Steak Soft Tacos	8.99
+Carnitas Bowl	8.99
+Steak Bowl	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Barbacoa Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Carnitas Crispy Tacos	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Carnitas Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Crispy Tacos	8.99
+Steak Burrito	8.99
+Barbacoa Burrito	8.99
+Steak Burrito	8.99
+Steak Crispy Tacos	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Bowl	8.99
+Steak Burrito	8.99
+Steak Salad	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Burrito	8.99
+Steak Soft Tacos	8.99
+Steak Burrito	8.99
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Crispy Tacos	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Crispy Tacos	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Veggie Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Veggie Bowl	8.75
+Chicken Bowl	8.75
+Veggie Burrito	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Veggie Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Veggie Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Veggie Burrito	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Veggie Salad Bowl	8.75
+Chicken Burrito	8.75
+Chicken Crispy Tacos	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Veggie Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Veggie Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Soft Tacos	8.75
+Chicken Crispy Tacos	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Veggie Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Veggie Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Crispy Tacos	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Salad Bowl	8.75
+Veggie Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Crispy Tacos	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Veggie Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Salad Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Veggie Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Salad Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Veggie Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Salad Bowl	8.75
+Chicken Crispy Tacos	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Crispy Tacos	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Veggie Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Salad Bowl	8.75
+Chicken Burrito	8.75
+Chicken Crispy Tacos	8.75
+Chicken Crispy Tacos	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Crispy Tacos	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Veggie Burrito	8.75
+Chicken Crispy Tacos	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Crispy Tacos	8.75
+Veggie Salad Bowl	8.75
+Chicken Burrito	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Veggie Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Veggie Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Crispy Tacos	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Crispy Tacos	8.75
+Chicken Salad Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Salad Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Veggie Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Veggie Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Salad Bowl	8.75
+Veggie Bowl	8.75
+Veggie Bowl	8.75
+Chicken Bowl	8.75
+Veggie Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Veggie Salad Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Crispy Tacos	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Veggie Bowl	8.75
+Chicken Burrito	8.75
+Veggie Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Veggie Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Crispy Tacos	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Veggie Burrito	8.75
+Chicken Crispy Tacos	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Salad Bowl	8.75
+Veggie Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Veggie Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Crispy Tacos	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Veggie Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Salad Bowl	8.75
+Veggie Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Veggie Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Veggie Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Veggie Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Salad Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Veggie Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Salad Bowl	8.75
+Veggie Burrito	8.75
+Chicken Bowl	8.75
+Veggie Bowl	8.75
+Chicken Burrito	8.75
+Veggie Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Veggie Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Salad Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Veggie Soft Tacos	8.75
+Chicken Bowl	8.75
+Veggie Burrito	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Veggie Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Veggie Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Crispy Tacos	8.75
+Chicken Crispy Tacos	8.75
+Chicken Burrito	8.75
+Veggie Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Veggie Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Veggie Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Salad Bowl	8.75
+Chicken Crispy Tacos	8.75
+Chicken Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Veggie Bowl	8.75
+Chicken Crispy Tacos	8.75
+Chicken Soft Tacos	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Veggie Salad Bowl	8.75
+Chicken Salad Bowl	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Chicken Burrito	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.75
+Chicken Burrito	8.75
+Veggie Burrito	8.75
+Chicken Burrito	8.75
+Chicken Bowl	8.75
+Chicken Bowl	8.75
+Steak Burrito	8.69
+Steak Burrito	8.69
+Steak Burrito	8.69
+Steak Burrito	8.69
+Steak Burrito	8.69
+Steak Salad	8.69
+Steak Burrito	8.69
+Barbacoa Bowl	8.69
+Steak Crispy Tacos	8.69
+Steak Bowl	8.69
+Carnitas Burrito	8.69
+Steak Bowl	8.69
+Steak Burrito	8.69
+Barbacoa Burrito	8.69
+Barbacoa Burrito	8.69
+Barbacoa Bowl	8.69
+Carnitas Burrito	8.69
+Barbacoa Bowl	8.69
+Steak Bowl	8.69
+Steak Burrito	8.69
+Chicken Bowl	8.50
+Chicken Bowl	8.50
+Chicken Salad	8.49
+Veggie Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Veggie Bowl	8.49
+Chicken Soft Tacos	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Veggie Bowl	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Veggie Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Veggie Bowl	8.49
+Chicken Salad	8.49
+Chicken Burrito	8.49
+Veggie Bowl	8.49
+Veggie Burrito	8.49
+Veggie Burrito	8.49
+Chicken Burrito	8.49
+Veggie Salad	8.49
+Veggie Burrito	8.49
+Chicken Bowl	8.49
+Veggie Salad	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Veggie Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Soft Tacos	8.49
+Chicken Burrito	8.49
+Veggie Burrito	8.49
+Veggie Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Soft Tacos	8.49
+Chicken Bowl	8.49
+Chicken Soft Tacos	8.49
+Veggie Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Soft Tacos	8.49
+Chicken Bowl	8.49
+Chicken Salad	8.49
+Chicken Crispy Tacos	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Soft Tacos	8.49
+Chicken Soft Tacos	8.49
+Veggie Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Veggie Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Veggie Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Veggie Burrito	8.49
+Veggie Soft Tacos	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Veggie Burrito	8.49
+Veggie Burrito	8.49
+Chicken Soft Tacos	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Veggie Bowl	8.49
+Chicken Soft Tacos	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Soft Tacos	8.49
+Chicken Burrito	8.49
+Veggie Burrito	8.49
+Veggie Bowl	8.49
+Veggie Burrito	8.49
+Veggie Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Veggie Bowl	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Veggie Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Veggie Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Veggie Bowl	8.49
+Chicken Bowl	8.49
+Chicken Crispy Tacos	8.49
+Chicken Salad	8.49
+Chicken Soft Tacos	8.49
+Veggie Soft Tacos	8.49
+Chicken Crispy Tacos	8.49
+Chicken Bowl	8.49
+Veggie Burrito	8.49
+Veggie Burrito	8.49
+Veggie Bowl	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Soft Tacos	8.49
+Chicken Burrito	8.49
+Veggie Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Veggie Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Crispy Tacos	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Veggie Burrito	8.49
+Veggie Burrito	8.49
+Veggie Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Salad	8.49
+Chicken Soft Tacos	8.49
+Veggie Burrito	8.49
+Chicken Crispy Tacos	8.49
+Chicken Soft Tacos	8.49
+Veggie Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Veggie Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Veggie Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Veggie Burrito	8.49
+Veggie Salad	8.49
+Veggie Burrito	8.49
+Veggie Soft Tacos	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Crispy Tacos	8.49
+Veggie Salad	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Veggie Burrito	8.49
+Veggie Salad	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Crispy Tacos	8.49
+Chicken Salad	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Veggie Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Veggie Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Soft Tacos	8.49
+Chicken Bowl	8.49
+Chicken Crispy Tacos	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Veggie Burrito	8.49
+Chicken Bowl	8.49
+Veggie Burrito	8.49
+Chicken Burrito	8.49
+Veggie Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Crispy Tacos	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Soft Tacos	8.49
+Chicken Soft Tacos	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Veggie Bowl	8.49
+Chicken Bowl	8.49
+Chicken Soft Tacos	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Soft Tacos	8.49
+Chicken Burrito	8.49
+Chicken Soft Tacos	8.49
+Chicken Soft Tacos	8.49
+Chicken Soft Tacos	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Veggie Salad	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Soft Tacos	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Veggie Bowl	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Veggie Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Veggie Bowl	8.49
+Veggie Bowl	8.49
+Chicken Burrito	8.49
+Chicken Soft Tacos	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Veggie Bowl	8.49
+Chicken Soft Tacos	8.49
+Chicken Burrito	8.49
+Chicken Soft Tacos	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Soft Tacos	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Soft Tacos	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Soft Tacos	8.49
+Veggie Bowl	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Veggie Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.49
+Chicken Bowl	8.49
+Veggie Crispy Tacos	8.49
+Chicken Bowl	8.49
+Chicken Burrito	8.49
+Chicken Burrito	8.19
+Chicken Burrito	8.19
+Chicken Burrito	8.19
+Chicken Salad	8.19
+Chicken Burrito	8.19
+Chicken Bowl	8.19
+Chicken Burrito	8.19
+Chicken Bowl	8.19
+Chicken Burrito	8.19
+Chicken Burrito	8.19
+Chicken Burrito	8.19
+Chicken Burrito	8.19
+Chicken Burrito	8.19
+Chicken Burrito	8.19
+Chicken Bowl	8.19
+Burrito	7.40
+Burrito	7.40
+Burrito	7.40
+Bowl	7.40
+Burrito	7.40
+Burrito	7.40
+Crispy Tacos	7.40
+Burrito	7.40
+Crispy Tacos	7.40
+Salad	7.40
+Salad	7.40
+Bowl	7.40
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+6 Pack Soft Drink	6.49
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.45
+Chips and Guacamole	4.25
+Chips and Guacamole	4.00
+Chips and Guacamole	4.00
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.99
+Chips and Guacamole	3.89
+Chips and Guacamole	3.89
+Chips and Guacamole	3.89
+Chips and Guacamole	3.89
+Chips and Guacamole	3.89
+Chips and Guacamole	3.89
+Izze	3.39
+Izze	3.39
+Izze	3.39
+Nantucket Nectar	3.39
+Nantucket Nectar	3.39
+Nantucket Nectar	3.39
+Izze	3.39
+Nantucket Nectar	3.39
+Izze	3.39
+Nantucket Nectar	3.39
+Izze	3.39
+Nantucket Nectar	3.39
+Izze	3.39
+Nantucket Nectar	3.39
+Izze	3.39
+Nantucket Nectar	3.39
+Nantucket Nectar	3.39
+Nantucket Nectar	3.39
+Izze	3.39
+Nantucket Nectar	3.39
+Izze	3.39
+Nantucket Nectar	3.39
+Nantucket Nectar	3.39
+Nantucket Nectar	3.39
+Izze	3.39
+Nantucket Nectar	3.39
+Izze	3.39
+Nantucket Nectar	3.39
+Nantucket Nectar	3.39
+Izze	3.39
+Izze	3.39
+Nantucket Nectar	3.39
+Nantucket Nectar	3.39
+Izze	3.39
+Nantucket Nectar	3.39
+Izze	3.39
+Izze	3.39
+Nantucket Nectar	3.39
+Nantucket Nectar	3.39
+Izze	3.39
+Nantucket Nectar	3.39
+Nantucket Nectar	3.39
+Nantucket Nectar	3.39
+Nantucket Nectar	3.39
+Izze	3.39
+Nantucket Nectar	3.39
+Izze	3.39
+Chips and Mild Fresh Tomato Salsa	3.00
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Fresh Tomato Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Fresh Tomato Salsa	2.29
+Chips and Fresh Tomato Salsa	2.29
+Chips and Fresh Tomato Salsa	2.29
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	2.15
+Chips	1.99
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Side of Chips	1.69
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Bottled Water	1.50
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soft Drink	1.25
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Bottled Water	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Canned Soda	1.09
+Bottled Water	1.09
+Canned Soda	1.09
+item_name	item_priceipo
+Steak Salad Bowl	11.89
+Barbacoa Salad Bowl	11.89
+Carnitas Salad Bowl	11.89
+Steak Burrito	11.75
+Barbacoa Bowl	11.75
+Barbacoa Crispy Tacos	11.75
+Veggie Salad Bowl	11.25
+Veggie Soft Tacos	11.25
+Veggie Burrito	11.25
+Veggie Bowl	11.25
+Chicken Salad	10.98
+Barbacoa Soft Tacos	9.25
+Steak Crispy Tacos	9.25
+Carnitas Soft Tacos	9.25
+Carnitas Crispy Tacos	9.25
+Steak Soft Tacos	9.25
+Steak Salad	8.99
+Steak Bowl	8.99
+Carnitas Salad	8.99
+Barbacoa Burrito	8.99
+Carnitas Bowl	8.99
+Carnitas Burrito	8.99
+Chicken Crispy Tacos	8.75
+Chicken Salad Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.49
+Veggie Crispy Tacos	8.49
+Chicken Bowl	8.49
+Veggie Salad	8.49
+Salad	7.40
+Burrito	7.40
+Crispy Tacos	7.40
+Bowl	7.40
+6 Pack Soft Drink	6.49
+Chips and Guacamole	4.45
+Izze	3.39
+Nantucket Nectar	3.39
+Chips and Mild Fresh Tomato Salsa	3.00
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips	2.15
+Side of Chips	1.69
+Canned Soft Drink	1.25
+Canned Soda	1.09
+Bottled Water	1.09
+item_name	item_priceipo
+Steak Salad Bowl	11.89
+Barbacoa Salad Bowl	11.89
+Carnitas Salad Bowl	11.89
+Steak Burrito	11.75
+Barbacoa Bowl	11.75
+Barbacoa Crispy Tacos	11.75
+Veggie Salad Bowl	11.25
+Veggie Soft Tacos	11.25
+Veggie Burrito	11.25
+Veggie Bowl	11.25
+Chicken Salad	10.98
+Barbacoa Soft Tacos	9.25
+Steak Crispy Tacos	9.25
+Carnitas Soft Tacos	9.25
+Carnitas Crispy Tacos	9.25
+Steak Soft Tacos	9.25
+Steak Salad	8.99
+Steak Bowl	8.99
+Carnitas Salad	8.99
+Barbacoa Burrito	8.99
+Carnitas Bowl	8.99
+Carnitas Burrito	8.99
+Chicken Crispy Tacos	8.75
+Chicken Salad Bowl	8.75
+Chicken Soft Tacos	8.75
+Chicken Burrito	8.49
+Veggie Crispy Tacos	8.49
+Chicken Bowl	8.49
+Veggie Salad	8.49
+Salad	7.40
+Burrito	7.40
+Crispy Tacos	7.40
+Bowl	7.40
+6 Pack Soft Drink	6.49
+Chips and Guacamole	4.45
+Izze	3.39
+Nantucket Nectar	3.39
+Chips and Mild Fresh Tomato Salsa	3.00
+Chips and Tomatillo Red Chili Salsa	2.95
+Chips and Tomatillo Green Chili Salsa	2.95
+Chips and Roasted Chili Corn Salsa	2.95
+Chips and Tomatillo-Green Chili Salsa	2.39
+Chips and Fresh Tomato Salsa	2.39
+Chips and Tomatillo-Red Chili Salsa	2.39
+Chips and Roasted Chili-Corn Salsa	2.39
+Chips	2.15
+Side of Chips	1.69
+Canned Soft Drink	1.25
+Canned Soda	1.09
+Bottled Water	1.09
